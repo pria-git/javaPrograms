@@ -44,6 +44,7 @@ public class Lab005 {
         int d= c++; //preincrment 1st increment then print c++ = 10;
         System.out.println(d);
         System.out.println(c);
+        System.out.println("commit");
 
 
     }

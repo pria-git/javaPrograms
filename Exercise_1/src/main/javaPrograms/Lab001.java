@@ -15,6 +15,7 @@ public class Lab001 {
 
         else
             System.out.println("odd number");
+        System.out.println("my name");
     }
 }
 
